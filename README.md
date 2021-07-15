@@ -12,7 +12,7 @@
 
 ## Description
 
-i4Digital Test Backend MVP is created with [Nest](https://github.com/nestjs/nest) framework TypeScript to start repository. To get more info of this API Project go to [API Documentation](https://app.swaggerhub.com/apis/jorgegildev/i4Digital-test-backend/1.0.0)
+i4Digital Test Backend MVP is created with [Nest](https://github.com/nestjs/nest) framework TypeScript to start repository. To get more info of this API Project go to [API Documentation](https://app.swaggerhub.com/apis/jorgegildev/i4Digital-test-backend/1.0.0).
 
 ## Installation
 
@@ -37,6 +37,12 @@ $ npm run start:dev
 
 # production mode
 $ npm run start:prod
+```
+## Start Guide
+
+```bash
+To init API open your favourite browser an enter to uri http://localhost:3000/api/v1 
+followed of method to use ('example': http://localhost:3000/api/v1/users).
 ```
 
 ## Test
